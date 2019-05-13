@@ -1,0 +1,39 @@
+return {
+  "OSC_WAVE",
+  "OSC_MIX",
+  "OSC2_COARSE",
+  "OSC2_FINE",
+
+  "SUB_OSC_WAVE",
+  "SUB_OSC_LEVEL",
+  "PITCH_EG_AMT",
+  "PITCH_EG_TGT",
+
+  "FILTER_CUTOFF",
+  "FILTER_RESO",
+  "CUTOFF_EG_AMT",
+  "AMP_EG_ON",
+
+  "EG_ATTACK",
+  "EG_DECAY",
+  "EG_SUSTAIN",
+  "EG_RELEASE",
+
+  "LFO_WAVE",
+  "LFO_RATE",
+  "PITCH_LFO_AMT",
+  "CO_LFO_AMT",
+
+  "LFO_DEPTH",
+  "LFO_RT_EG_AMT",
+  "PITCH_LFO_TGT",
+  "LFO_FADE_TIME",
+
+  "PB_RANGE",
+  "CO_EXP_AMT",
+  "AMP_EXP_AMT",
+  "PORTAMENTO",
+  "LEGATO",
+  "KEY_ASSIGN",
+  "EXP_BY_VEL",
+}
