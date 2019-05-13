@@ -1,4 +1,4 @@
-local json = require "json"
+local json = require "rxi-json-lua"
 local table2 = require "util.table2"
 
 local music = {}
